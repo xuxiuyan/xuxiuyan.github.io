@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K
+http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1
+http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2
+http://39.135.55.105:6610/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3
+http://39.135.55.105:6610/PLTV/88888888/224/3221227055/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4
+http://39.135.55.105:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国",CCTV-5
+http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国",CCTV-5+
+http://39.135.55.105:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6
+http://39.135.55.105:6610/PLTV/88888888/224/3221227137/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国",CCTV-7
+http://39.135.55.105:6610/PLTV/88888888/224/3221225805/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国",CCTV-8
+http://39.135.55.105:6610/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国",CCTV-9
+http://39.135.55.105:6610/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国",CCTV-10
+http://39.135.55.105:6610/PLTV/88888888/224/3221225814/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国",CCTV-11
+http://39.135.55.105:6610/PLTV/88888888/224/3221225815/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国",CCTV-12
+http://39.135.55.105:6610/PLTV/88888888/224/3221225816/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国",CCTV-13
+http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国",CCTV-14
+http://39.135.55.105:6610/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国",CCTV-15
+http://39.135.55.105:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国",CCTV-16
+http://39.135.55.105:6610/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17
+http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中国",河南卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="中国",江苏卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="中国",浙江卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225825/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国",北京卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国",湖南卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="中国",广东卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="中国",东方卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="中国",黑龙江卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国",深圳卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225848/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="中国",山东卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225843/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="中国",天津卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225830/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="中国",湖北卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225840/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="中国",重庆卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225831/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="中国",安徽卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225844/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国",江西卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225834/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="中国",甘肃卫视
+http://111.63.117.13:6060/030000001000/G_GANSU/G_GANSU.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="中国",辽宁卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="中国",东南卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227040/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="中国",四川卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="中国",贵州卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221226827/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="中国",海南卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="中国",河北卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="中国",吉林卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="中国",厦门卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="中国",山西卫视
+http://111.63.117.13:6060/030000001000/SXWS/SXWS.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="中国",三沙卫视
+http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中国",CHC家庭影院
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国",CHC动作电影
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="中国",纪实人文
+http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="中国",纪实人文(备)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="中国",全纪实
+http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="中国",金鹰纪实
+http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="中国",生活时尚
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg" group-title="中国",黑莓电影
+http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6153d999ee4fd.jpg" group-title="中国",黑莓动画
+http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg" group-title="中国",北京IPTV淘电影
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6153d99a454ef.jpg" group-title="中国",北京IPTV淘剧场
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6153d99a421ec.jpg" group-title="中国",北京IPTV淘娱乐
+http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",北京IPTV萌宠TV
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",北京IPTV淘BABY
+http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",北京IPTV大健康
+http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOwqRuq1wlVOXKPSxUnb4JNQ%3D%3D%3A20211105223205%2C10000100000000050000000003887494%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+
+#EXTM3U
+#EXTINF:-1 ,【周星星】星爷经典不间断
+http://111.6.244.41/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,成龙经典武打动作片
+http://111.6.244.41/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,英叔护体 | 林正英搞笑僵尸系列
+http://111.6.244.41/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 ,李连杰系列 武打高产王
+http://111.6.244.41/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,【黑帮大片】山鸡哥重现江湖
+http://111.6.244.41/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,刘德华电影_经典系列
+http://111.6.244.41/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 ,合家欢喜剧，欢乐笑哈哈！
+http://111.6.244.41/tx.hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8
+#EXTINF:-1 ,历年贺岁档 笑就完事儿了
+http://111.6.244.41/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,【五福星】每天都要快乐哦
+http://111.6.244.41/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
+#EXTINF:-1 ,出现内鬼，终止交易！
+http://111.6.244.41/tx.hls.huya.com/src/1423782037-1423782037-6115097285547261952-2847687530-10057-A-0-1.m3u8
+#EXTINF:-1 ,搞笑恐怖类 弹幕护体
+http://111.6.244.41/tx.hls.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.m3u8
+#EXTINF:-1 ,【吴京】京哥看了都说赞
+http://111.6.244.41/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 ,甄子丹 我要打十个
+http://111.6.244.41/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,这些都是高智商的罪犯
+http://111.6.244.41/tx.hls.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,【警匪】不会当卧底的警察不是好卧底
+http://111.6.244.41/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,【王晶】港风导演代表
+http://111.6.244.41/tx.hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
+#EXTINF:-1 ,周润发电影 小马哥归来
+http://111.6.244.41/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,【女神系列】邱淑贞 王祖贤 张曼玉
+http://111.6.244.41/tx.hls.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,黑帮斗争 黑与白的对峙，情与义的泯灭
+http://111.6.244.41/tx.hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.m3u8
+#EXTINF:-1 ,周星星粤语经典版~
+http://111.6.244.41/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8
+#EXTINF:-1 ,黄金配角 | 达叔永远的经典
+http://111.6.244.41/tx.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8
+#EXTINF:-1 ,喜剧专场 看喜剧笑一笑吧
+http://111.6.244.41/tx.hls.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
+#EXTINF:-1 ,看完你也学不会系列~
+http://111.6.244.41/tx.hls.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.m3u8
+#EXTINF:-1 ,一代经典星爷，难以超越
+http://111.6.244.41/tx.hls.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.m3u8
+#EXTINF:-1 ,【许氏三杰】快来 就差你了
+http://111.6.244.41/tx.hls.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8
+#EXTINF:-1 ,快意江湖：金庸的武侠世界
+http://111.6.244.41/tx.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
+#EXTINF:-1 ,经典之作·金庸群侠篇电影
+http://111.6.244.41/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,手心直冒汗！惊心动魄的灾难片
+http://111.6.244.41/tx.hls.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 ,洪金宝·童年回忆杀
+http://111.6.244.41/tx.hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
+#EXTINF:-1 ,《jiang夜》终将至，花开彼岸天
+http://111.6.244.41/tx.hls.huya.com/src/1449580358-1449580358-6225900230533971968-2847687552-10057-A-0-1.m3u8
+#EXTINF:-1 ,【赛车电影】秋名山我来了
+http://111.6.244.41/tx.hls.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,【十一推荐】动作要快，姿势要帅
+http://111.6.244.41/tx.hls.huya.com/src/1524434083-1524434083-6547394531392749568-3048991622-10057-A-0-1.m3u8
+#EXTINF:-1 ,够劲，就是中国功夫
+http://111.6.244.41/tx.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
+#EXTINF:-1 ,搞笑喜剧：最佳拍档 开心鬼系列
+http://111.6.244.41/tx.hls.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8
+#EXTINF:-1 ,经典港剧笑嘻嘻
+http://111.6.244.41/tx.hls.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.m3u8
+#EXTINF:-1 ,【喜剧专场】我们一起找乐子
+http://111.6.244.41/tx.hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 ,玄幻剧场·体验另一种生活！
+http://111.6.244.41/tx.hls.huya.com/src/1394575536-1394575536-5989656318921670656-2789274528-10057-A-0-1.m3u8
+#EXTINF:-1 ,港剧最佳拍档 | 许冠英合集
+http://111.6.244.41/tx.hls.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 ,【赵文卓】经典系列
+http://111.6.244.41/tx.hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8
+#EXTINF:-1 ,古墓系列·去冒险吧！
+http://111.6.244.41/tx.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8
+#EXTINF:-1 ,【镖行天下】镖在人在
+http://111.6.244.41/tx.hls.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.m3u8
+#EXTINF:-1 ,抗ri大片，爽！
+http://111.6.244.41/tx.hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
+#EXTINF:-1 ,国产悬疑精选·智商在线
+http://111.6.244.41/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.m3u8
+#EXTINF:-1 ,【黄渤】经典回顾
+http://111.6.244.41/tx.hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1 ,五一爆笑大片 解压解压
+http://111.6.244.41/tx.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8
+#EXTINF:-1 ,愚人节一起笑破肚皮
+http://111.6.244.41/tx.hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8
+#EXTINF:-1 ,宁浩导演·东北版让子弹飞
+http://111.6.244.41/tx.hls.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8
+#EXTINF:-1 ,致敬！经典港式功夫招牌
+http://111.6.244.41/tx.hls.huya.com/src/1423782056-1423782056-6115097367151640576-2847687568-10057-A-0-1.m3u8
+#EXTINF:-1 ,有一种电影叫王宝强电影
+http://111.6.244.41/tx.hls.huya.com/src/1449580415-1449580415-6225900475347107840-2847699190-10057-A-0-1.m3u8
+#EXTINF:-1 ,警匪犯罪·现在我想做一个好人
+http://111.6.244.41/tx.hls.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8
+#EXTINF:-1 ,玄幻专场·国产特效大制作
+http://111.6.244.41/tx.hls.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.m3u8
+#EXTINF:-1 ,笑死人不偿命，老子就要嗨皮！
+http://111.6.244.41/tx.hls.huya.com/src/1449567112-1449567112-6225843339397169152-2847687536-10057-A-0-1.m3u8
+#EXTINF:-1 ,【彦祖】颜值巅峰
+http://111.6.244.41/tx.hls.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8
+#EXTINF:-1 ,激战·怕，就会输一辈子！
+http://111.6.244.41/tx.hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1-imgplus.m3u8
