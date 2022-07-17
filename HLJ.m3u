@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="4K",纯享4K
-http://39.135.32.236:6610/PLTV/77777777/224/3221225726/index.m3u8?
+#EXTINF:-1 group-title="4K",CCTV4K
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://111.40.45.201:18001/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -13,13 +13,13 @@ http://111.40.45.201:18001/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://111.40.45.201:18001/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://39.135.32.236:6610/PLTV/77777777/224/3221225801/index.m3u8?
+http://111.20.33.93/TVOD/88888893/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
-http://39.135.32.236:6610/PLTV/77777777/224/3221225715/index.m3u8?
+http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://111.40.45.201:18001/hls/32/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://39.135.32.236:6610/PLTV/77777777/224/3221225716/index.m3u8?
+http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://111.40.45.201:18001/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
