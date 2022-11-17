@@ -1,95 +1,95 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3",🍓CCTV3
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3",CCTV3
 http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4",🍓CCTV4
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4",CCTV4
 http://117.148.129.11/PLTV/88888888/224/3221231726/index.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4k",🍓CCTV4K
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4k",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5",🍓CCTV5
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5",CCTV5
 http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5",🍓CCTV5+
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5",CCTV5+
 http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6",🍓CCTV6
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6",CCTV6
 http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7",🍓CCTV7
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7",CCTV7
 http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV8",🍓CCTV8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV8",CCTV8
 http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV11",🍓CCTV11
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV11",CCTV11
 http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV风云剧场",🍓CCTV风云剧场
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV风云剧场",CCTV风云剧场
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-#EXTINF:-1 ,🍓CHC家庭影院
+#EXTINF:-1 ,CHC家庭影院
 http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
-#EXTINF:-1 ,🍓CHC动作电影
+#EXTINF:-1 ,CHC动作电影
 http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 ,🍓NewTV家庭剧场
+#EXTINF:-1 ,NewTV家庭剧场
 http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-#EXTINF:-1 ,🍓NewTV精品大剧
+#EXTINF:-1 ,NewTV精品大剧
 http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
-#EXTINF:-1 ,🍓NewTV金牌综艺
+#EXTINF:-1 ,NewTV金牌综艺
 http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 ,🍓NewTV精品综合
+#EXTINF:-1 ,NewTV精品综合
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 ,🍓NewTV动作电影
+#EXTINF:-1 ,NewTV动作电影
 http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 ,🍓NewTV惊悚悬疑
+#EXTINF:-1 ,NewTV惊悚悬疑
 http://39.134.65.175/PLTV/88888888/224/3221225525/1.m3u8
-#EXTINF:-1 ,🍓NewTV中国功夫
+#EXTINF:-1 ,NewTV中国功夫
 http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
-#EXTINF:-1 ,🍓NewTV超级综艺
+#EXTINF:-1 ,NewTV超级综艺
 http://39.134.65.166/PLTV/88888888/224/3221225550/1.m3u8
-#EXTINF:-1 ,🍓TVB影视
+#EXTINF:-1 ,TVB影视
 http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
-#EXTINF:-1 ,🐍金马影院
+#EXTINF:-1 ,金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 ,🐍惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 ,🐍海外剧场
+#EXTINF:-1 ,海外剧场
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7681593242002292003&livemode=1&stbId=2&channel-id=ystenlive
-#EXTINF:-1 ,🐍潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 ,🐍精品体育
+#EXTINF:-1 ,精品体育
 http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 ,🐍精品大剧
+#EXTINF:-1 ,精品大剧
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=7882297361445410858&livemode=1&stbId=2&channel-id=ystenlive
-#EXTINF:-1 ,🐍精品纪录
+#EXTINF:-1 ,精品纪录
 http://111.40.196.9/PLTV/88888888/224/3221225630/index.m3u8
-#EXTINF:-1 ,🐍超级综艺
+#EXTINF:-1 ,超级综艺
 http://39.134.65.164/PLTV/88888888/224/3221225642/1.m3u8
-#EXTINF:-1 ,🐍超级电影
+#EXTINF:-1 ,超级电影
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1 ,🐍超级电视剧
+#EXTINF:-1 ,超级电视剧
 http://39.134.65.164/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1 ,🔞斗鱼神乐影片1
+#EXTINF:-1 ,斗鱼神乐影片1
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 ,🔞斗鱼神乐影片2
+#EXTINF:-1 ,斗鱼神乐影片2
 http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 ,🔞斗鱼贝爷MAX厅
+#EXTINF:-1 ,斗鱼贝爷MAX厅
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 ,🔞斗鱼漫威影片
+#EXTINF:-1 ,斗鱼漫威影片
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 ,🔞斗鱼霍格影片
+#EXTINF:-1 ,斗鱼霍格影片
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 ,🔞斗鱼可乐电影
+#EXTINF:-1 ,斗鱼可乐电影
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 ,🔞斗鱼冰冰经典电影
+#EXTINF:-1 ,斗鱼冰冰经典电影
 http://epg.112114.xyz/douyu/74374
-#EXTINF:-1 ,🔞斗鱼奶瓶科幻片
+#EXTINF:-1 ,斗鱼奶瓶科幻片
 http://epg.112114.xyz/douyu/6655271
-#EXTINF:-1 ,🔞斗鱼漫威电影
+#EXTINF:-1 ,斗鱼漫威电影
 http://epg.112114.xyz/douyu/4282654
-#EXTINF:-1 ,🔞斗鱼科幻系列
+#EXTINF:-1 ,斗鱼科幻系列
 http://epg.112114.xyz/douyu/8107217
-#EXTINF:-1 ,🔞斗鱼恐怖经典
+#EXTINF:-1 ,斗鱼恐怖经典
 http://epg.112114.xyz/douyu/1165374
-#EXTINF:-1 ,🔞斗鱼小U电影
+#EXTINF:-1 ,斗鱼小U电影
 http://epg.112114.xyz/douyu/96577
-#EXTINF:-1 ,🔞斗鱼华语电影
+#EXTINF:-1 ,斗鱼华语电影
 http://epg.112114.xyz/douyu/3928
-#EXTINF:-1 ,🔞斗鱼华语动作电影
+#EXTINF:-1 ,斗鱼华语动作电影
 http://epg.112114.xyz/douyu/1504768
-#EXTINF:-1 ,🔞斗鱼欧美大片
+#EXTINF:-1 ,斗鱼欧美大片
 http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东南卫视",东南卫视
 http://111.40.196.28/PLTV/88888888/224/3221225583/index.m3u8
