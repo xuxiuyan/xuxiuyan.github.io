@@ -1,81 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" group-title="CCTV",CCTV1
-http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2" group-title="CCTV",CCTV2
-http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" group-title="CCTV",CCTV3
-http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4k" group-title="CCTV",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="CCTV",CCTV5+
-http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6" group-title="CCTV",CCTV6
-http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7" group-title="CCTV",CCTV7
-http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV8" group-title="CCTV",CCTV8
-http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV9" group-title="CCTV",CCTV9
-http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV10" group-title="CCTV",CCTV10
-http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV11" group-title="CCTV",CCTV11
-http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV12" group-title="CCTV",CCTV12
-http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13" group-title="CCTV",CCTV13
-http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV14" group-title="CCTV",CCTV14
-http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV15" group-title="CCTV",CCTV15
-http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV16" group-title="CCTV",CCTV16
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV17" group-title="CCTV",CCTV17
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
-#EXTINF:-1 group-title="CCTV",NewTV家庭剧场
-http://39.135.138.58:18890/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 group-title="CCTV",NewTV金牌综艺
-http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="CCTV",NewTV精品综合
-http://39.135.138.58:18890/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="CCTV",NewTV动作电影
-http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="CCTV",NewTV惊悚悬疑
-http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="CCTV",NewTV超级综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="CCTV",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="CCTV",潮妈辣婆
-http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="CCTV",精品体育
-http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 group-title="CCTV",阿冷
-http://epg.112114.xyz/douyu/520
-#EXTINF:-1 group-title="CCTV",周淑怡
-http://epg.112114.xyz/douyu/290935
-#EXTINF:-1 group-title="CCTV",南波儿
-http://epg.112114.xyz/douyu/5526219
-#EXTINF:-1 group-title="轮播",欧美科幻
-http://mmitv.top/pltv/yy.php?id=37988782
 #EXTINF:-1 group-title="轮播",豆瓣高分
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 group-title="轮播",动画片莽荒纪
-http://mmitv.top/pltv/yy.php?id=1354930977
-#EXTINF:-1 group-title="轮播",香港搞笑鬼片
-http://mmitv.top/pltv/yy.php?id=1352227227
-#EXTINF:-1 group-title="轮播",林正英搞笑僵尸
-http://mmitv.top/pltv/yy.php?id=1351505899
-#EXTINF:-1 group-title="轮播",武侠经典电影 永恒不变
-http://mmitv.top/pltv/yy.php?id=1353587611
-#EXTINF:-1 group-title="轮播",周星驰经典搞笑堵片
-http://mmitv.top/pltv/yy.php?id=1353881242
-#EXTINF:-1 group-title="轮播",英叔全集电影
-http://mmitv.top/pltv/yy.php?id=1353685311
-#EXTINF:-1 group-title="轮播",港片鬼片500部
-http://mmitv.top/pltv/yy.php?id=1353059120
 #EXTINF:-1 group-title="轮播",恐怖电影
 http://epg.112114.xyz/douyu/310926
 #EXTINF:-1 group-title="轮播",高帧影片
@@ -194,5 +120,3 @@ http://diyp.112114.xyz/douyu/20415
 http://diyp.112114.xyz/douyu/122402
 #EXTINF:-1 group-title="斗鱼电影",斗鱼电影1
 http://diyp.112114.xyz/douyu/85894
-#EXTINF:-1 group-title="斗鱼电影",斗鱼漫威电影
-http://epg.112114.xyz/douyu/4282654
